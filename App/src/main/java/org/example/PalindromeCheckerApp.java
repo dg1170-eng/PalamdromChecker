@@ -1,6 +1,8 @@
 package org.example;
 
-public class PalindromeCheckerApp{
+import java.sql.SQLOutput;
 
+public class PalindromeCheckerApp{
+    sdfghjkl
 
 }
